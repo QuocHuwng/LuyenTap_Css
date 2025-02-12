@@ -21,6 +21,8 @@ h1 {
 }
 
 img {
+    border-radius: 50%;
+    background-color: white;
     margin-left: 1cm;
     vertical-align: middle;
 }

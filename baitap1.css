@@ -28,3 +28,8 @@ pre {
     text-align: start;
     display: inline-block
 }
+
+img {
+    border-radius: 50%;
+    background-color: white;
+}
