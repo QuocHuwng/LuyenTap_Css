@@ -1,0 +1,23 @@
+.bgr1 {
+    padding: 0.3cm;
+    width: 5.5cm;
+    height: 7.7cm;
+    background-color: rgb(244, 235, 235);
+}
+
+.bgr2 {
+    background-color: white;
+    width: 4.89cm;
+    padding: 0.22cm;
+}
+
+.DKY {
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: rgb(82, 124, 231);
+    text-align: center;
+    width: 4.5cm;
+}

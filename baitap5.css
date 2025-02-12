@@ -1,0 +1,59 @@
+.head {
+    background-color: green;
+    color: white;
+    padding: 0.3cm;
+}
+
+.body {
+    text-align: center;
+    background: rgb(229, 226, 226);
+    padding: 1cm;
+
+}
+
+h1 {
+
+    width: 84%;
+    display: inline-block
+}
+
+.a {
+    padding: 0.11cm;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.body1 {
+    text-align: center;
+}
+
+.foot {
+    margin-left: 0.5cm;
+
+}
+
+button {
+    width: 9.5cm;
+    padding-left: 0.5cm;
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+
+
+
+.KN {
+    padding: 0.1cm;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.g {
+    padding: 0.3cm;
+    background-color: grey;
+    margin-left: 2.62cm;
+}

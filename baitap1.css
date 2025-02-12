@@ -1,0 +1,30 @@
+pre {
+    color: white;
+    text-align: center;
+    background-color: #0665e2;
+}
+
+.a {
+    text-align: center;
+    padding-left: 12cm;
+
+}
+
+.b {
+    background-color: rgb(225, 219, 219);
+    padding-left: 15cm;
+}
+
+.c {
+    color: white;
+    text-decoration: none;
+}
+
+.p {
+    text-align: start;
+}
+
+.l {
+    text-align: start;
+    display: inline-block
+}

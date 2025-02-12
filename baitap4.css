@@ -1,0 +1,31 @@
+.head {
+    background-color: rgb(84, 178, 84);
+    text-align: center;
+    padding: 0.5cm;
+}
+
+h1 {
+    color: white;
+}
+
+.a {
+    padding: 0.11cm;
+}
+
+.body {
+    width: 6cm;
+    padding-bottom: 10cm;
+    background-color: rgb(243, 241, 241);
+}
+
+.foot {
+    margin-left: 0.5cm;
+    float: right;
+}
+
+.foot1 {
+    padding: 0.5cm;
+    background-color: black;
+    color: white;
+    text-align: center;
+}

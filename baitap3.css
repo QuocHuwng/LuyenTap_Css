@@ -1,0 +1,59 @@
+.head {
+    background-color: black;
+    color: white;
+    padding: 0.3cm;
+}
+
+.body {
+    background: rgb(229, 226, 226);
+
+}
+
+h1 {
+    width: 88%;
+    display: inline-block
+}
+
+.a {
+    padding: 0.11cm;
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    margin-left: 1cm;
+    vertical-align: middle;
+}
+
+.body1 {
+    display: inline-block;
+    padding: 1.5cm 10px;
+    color: black;
+}
+
+.foot {
+    margin-left: 0.5cm;
+}
+
+button {
+    width: 9.5cm;
+    padding-left: 0.5cm;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.M {
+    opacity: 0.5;
+}
+
+.KN {
+    background: rgb(229, 226, 226);
+    text-align: center;
+    padding: 0.5cm;
+}
+
+.b {
+    color: black;
+    text-decoration: none;
+}
